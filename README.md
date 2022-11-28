@@ -27,6 +27,8 @@ Surprisingly, changing how many years a wallet has been dormant doesn't move the
 * 3 years - 223 lost
 * 2 years - 241 lost
 
+Please reach out to [0xmunger]([url](https://twitter.com/0xMunger)) on twitter with any comments or ideas to make this script better. 
+
 ### 4 year wallet data 
 
 192 / 10,000 punks lost: ~2%
