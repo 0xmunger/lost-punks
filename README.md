@@ -4,7 +4,7 @@ How many punks are lost forever? This question comes up often. I've heard number
 
 Roughly 192, or 2% of CryptoPunks are lost. "Lost" is defined as a wallet or related wallet having no transactions for 4 years.
 
-Interestingly, 155 of the 192 are concentrated in two wallets: [0x717](https://cryptopunks.app/cryptopunks/accountinfo?account=0x7174039818a41e1ae40fdcfa3e293b0f41592af2) which has 89 punks and [0x776](0x7760E0243cA9BAA630412865DF7b39AfbA42Ff0f) which has 66 punks. See screenshots below for the punks lost to the ether. 
+Interestingly, 155 of the 192 are concentrated in two wallets: [0x717](https://cryptopunks.app/cryptopunks/accountinfo?account=0x7174039818a41e1ae40fdcfa3e293b0f41592af2) which has 89 punks and [0x776]([0x7760E0243cA9BAA630412865DF7b39AfbA42Ff0f](https://cryptopunks.app/cryptopunks/accountinfo?account=0x7760E0243cA9BAA630412865DF7b39AfbA42Ff0f)) which has 66 punks. See screenshots below for the punks lost to the ether. 
 
 ![image](https://user-images.githubusercontent.com/90461460/204386278-05edee1b-131a-4c12-84f0-c3d52981d77a.png)
 ![image](https://user-images.githubusercontent.com/90461460/204386354-8a4d4ce8-027d-4e99-9795-a2e4972df5d9.png)
